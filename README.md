@@ -1,3 +1,6 @@
 # mapadez
 exemplificarIC
-Sou gerente de suporte, tenho 39 anos e estou na segunda faculdade
++ # Sobre mim
++ Meu nome é Fernando Borgo
++ Sou gerente de suporte
++ Trabalho no ramo ferroviário
